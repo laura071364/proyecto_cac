@@ -29,7 +29,7 @@
 
         public function ejecutar($sql){
             $result=$this->conn->query($sql);
-            return $result;
+            return $result;//devuelve....true?
         }
        
         public function filasRetornadas(){
