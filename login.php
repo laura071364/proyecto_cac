@@ -19,7 +19,7 @@
         <div class="col-sm-8">
             <div class="modal-content"> 
                 <div class="col-12">
-                    <img src="../images/avatar.png" alt=""/>
+                    <img src="images/avatar.png" alt=""/>
                 </div>
                 <form class="col-12" action="validar.php" method="post" id="formulario_logueo">
                     <div class="form-group">
