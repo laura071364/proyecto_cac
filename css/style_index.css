@@ -1,10 +1,12 @@
 body{
     /* background-image: linear-gradient(to top, #ff9a9e 0%, #fecfef 99%, #fecfef 100%); */
     margin: 0;
+    padding: 0;
     background-image: linear-gradient(to top, #fddb92 0%, #d1fdff 100%);
     font-family: 'Edu TAS Beginner', cursive;    
     font-size: 1.5rem;
 }
+
 
 #nombre_autor{
     font-weight:bold; 
@@ -13,6 +15,7 @@ body{
 }
 
 #profesion{
+   
     font-size: 2rem;
     text-shadow: 3px 3px 1px #fddb92;
 }
