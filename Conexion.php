@@ -9,13 +9,19 @@
         
         //metodos
        /*  public function __construct(){
-            $this->host="localhost";
-            $this->user="root";
-            $this->pass="";
-            $this->db="cac_bknd";
+            $this->host="fdb29.awardspace.net";
+            $this->user="3567606_bknd";
+            $this->pass="[d/BKt+O5dHiQYii";
+            $this->db="3567606_bknd";
+            
+
+            $this->host=$host;
+            $this->user=$user;
+            $this->pass=$pass;
+            $this->db=$db;
         }
-        
-        public function conectarDB(){
+         */
+        /* public function conectarDB(){
             //crea y retorna la conexion con la bd
             $this->conn= new mysqli($this->host,$this->user,$this->pass,$this->db);
             if($this->conn->connect_errno){
